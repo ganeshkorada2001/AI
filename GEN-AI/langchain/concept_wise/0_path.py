@@ -10,3 +10,11 @@
     b. ways: invoke, stream, batch
 '''
 #_________________________________________________
+'''
+- model
+- ways to ivoke model
+- text prompt
+- langchain standard messages
+- dictionary format
+- 
+'''
