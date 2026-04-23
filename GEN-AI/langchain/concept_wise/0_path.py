@@ -1,3 +1,12 @@
+
+"""
+I want to explain the langchain to the first year college student from scratch.
+The college student doesn't have the any idea about the generative ai.
+
+I want build the concepts from scratch through the problem statements.
+So that i can use those problems to build the use cases and explain.
+
+Give the use cases problem statements"""
 #_________________________________________________
 
 # -------> messages ------> model
